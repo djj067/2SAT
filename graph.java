@@ -1,4 +1,4 @@
-package com.example.graph
+package com.example.tarjanalgorithm
 
 import java.io.BufferedReader;
 import java.io.File;
